@@ -1,0 +1,25 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "blockchain ",
+  "main": "main.js",
+  "scripts": {
+    "test": "testchian"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawfiek/block-chain.git"
+  },
+  "keywords": [
+    "block"
+  ],
+  "author": "tawfiek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tawfiek/block-chain/issues"
+  },
+  "homepage": "https://github.com/tawfiek/block-chain#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
